@@ -6,7 +6,7 @@
 # Debug Mode
 DEBUGMODE="0"
 
-
+# 
 # Functions
 
 # Check Command
